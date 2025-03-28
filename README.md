@@ -30,23 +30,24 @@ Aplicativo mobile para registrar locais visitados com fotos e geolocalização a
 - Dispositivo móvel com o app Expo Go ou emulador configurado
 
 ### Instalação
-1. Clone o repositório:
-   bash
-   git clone https://github.com/seu-usuario/por-onde-passei.git
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/me-cbr/por-onde-passei.git
+   ```
+2. Entre no diretório do projeto:
+   ```sh
    cd por-onde-passei
-   
-
-2. Instale as dependências:
-   bash
+   ```
+3. Instale as dependências:
+   ```sh
    npm install
-   
-
-3. Inicie o servidor de desenvolvimento:
-   bash
+   ```
+4. Inicie o projeto:
+   ```sh
    expo start
-   
+   ```
+5. Escaneie o QR code com o app Expo Go ou execute no emulador.
 
-4. Escaneie o QR code com o app Expo Go ou execute no emulador.
 
 ## 📂 Estrutura do Projeto
 
