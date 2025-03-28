@@ -76,9 +76,9 @@ O arquivo app.json contém todas as configurações necessárias, incluindo:
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 ## 👥 Desenvolvedores
-- [Maria Eduarda Coelho] - [mecoelhodev@gmail.com]
-- [Lucas Moyses] - [lucasmoyses88@gmail.com]
-- [Eduardo Paixão] - [ra202210694@univassouras.edu.br]
+- Maria Eduarda Coelho - [mecoelhodev@gmail.com](mailto:mecoelhodev@gmail.com)
+- Lucas Moyses - [lucasmoyses88@gmail.com](mailto:mecoelhodev@gmail.com)
+- Eduardo Paixão - [ra202210694@univassouras.edu.br](ra202210694@univassouras.edu.br)
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
