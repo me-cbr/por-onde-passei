@@ -44,7 +44,7 @@ Aplicativo mobile para registrar locais visitados com fotos e geolocalização a
    ```
 4. Inicie o projeto:
    ```sh
-   expo start
+   npx expo start
    ```
 5. Escaneie o QR code com o app Expo Go ou execute no emulador.
 
