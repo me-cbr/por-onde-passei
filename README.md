@@ -48,8 +48,9 @@ Aplicativo mobile para registrar locais visitados com fotos e geolocalização a
 
 4. Escaneie o QR code com o app Expo Go ou execute no emulador.
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
+```
 por-onde-passei/
 ├── assets/            # Ícones e imagens
 ├── components/        # Componentes reutilizáveis
@@ -60,6 +61,7 @@ por-onde-passei/
 ├── navigation/        # Configuração de navegação
 ├── App.js             # Ponto de entrada
 └── app.json           # Configuração do Expo
+```
 
 
 ## Configuração
@@ -80,5 +82,5 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 - Lucas Moyses - [lucasmoyses88@gmail.com](mailto:mecoelhodev@gmail.com)
 - Eduardo Paixão - [ra202210694@univassouras.edu.br](ra202210694@univassouras.edu.br)
 
-## Contribuição
+## 🤝 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
