@@ -71,8 +71,6 @@ O arquivo app.json contém todas as configurações necessárias, incluindo:
 - Identificação do app
 - Ícones e splash screen
 
-## Capturas de Tela
-(Adicione imagens das telas do seu app aqui)
 
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
